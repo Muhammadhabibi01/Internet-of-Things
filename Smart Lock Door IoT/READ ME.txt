@@ -1,0 +1,4 @@
+READ !!!
+Hai,ini merupakan sistem keammanan IoT berbasis Internet.
+Pada keamanan ini saya menggunakan NFC.SENSOR PIR,dan TOUCH SENSOR.
+Pada sistem keamanan ini kita dapat melakukan monitoring dengan berbasis Web Application dan Mobile Application.
